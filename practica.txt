@@ -3,4 +3,8 @@ Esta es una practica
 Victor tiene 25 años y es salvadoreño 
 viviendo en santa ana
 
+<<<<<<< HEAD
 hoy hablaremos de su vida y obra maestra
+=======
+mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
