@@ -2,17 +2,11 @@ body
 { 
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-=======
     font-family: "Arial";
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
-=======
 
 #cabecera
 {
@@ -32,7 +26,6 @@ body
 }
 
 
->>>>>>> cabecera
 #container
 {
     width: 70%;
